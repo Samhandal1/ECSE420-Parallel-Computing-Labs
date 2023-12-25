@@ -1,5 +1,7 @@
 # ECSE420-Parallel-Computing-Labs
 
+In the ECSE 420 labs, the focus was on parallel computing utilizing CUDA. The labs offered practical insights into varied applications, including image processing, logic gate simulation, signal processing, musical instrument synthesis, and the implementation of complex algorithms like breadth-first search.
+
 ## Lab 0: Simple CUDA Processing
 
 Objective: Implement and parallelize simple signal processing using CUDA, focusing on image rectification and pooling.
